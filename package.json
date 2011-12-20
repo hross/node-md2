@@ -1,0 +1,19 @@
+{
+  "author": "Ross Brodbeck <hross@hross.com> (http://hross.net/)",
+  "name": "md2",
+  "description": "md2 Model Renderer",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hross/node-md2.git"
+  },
+  "main": "md2.js",
+  "engines": {
+    "node": "0.4"
+  },
+  "dependencies": {
+    "binary": ">= 0.1.0",
+    "jspack": ">= 0"
+  },
+  "devDependencies": {}
+}
